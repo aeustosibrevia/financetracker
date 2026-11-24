@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="80a00f05-9afe-492b-ab36-b07d86817860" />
+    <option name="openSessionIds">
+      <list>
+        <option value="63504478-8b90-4017-85bd-be210131b237" />
+        <option value="80a00f05-9afe-492b-ab36-b07d86817860" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="63504478-8b90-4017-85bd-be210131b237" value="/sessions/960758e8-2ac3-4545-b28a-a2bb6fb68d8c" />
+        <entry key="80a00f05-9afe-492b-ab36-b07d86817860" value="/sessions/960758e8-2ac3-4545-b28a-a2bb6fb68d8c" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="63504478-8b90-4017-85bd-be210131b237" value="Схема БД трекера бюджета" />
+        <entry key="80a00f05-9afe-492b-ab36-b07d86817860" value="Схема БД трекера бюджета" />
+      </map>
+    </option>
+  </component>
+</project>
